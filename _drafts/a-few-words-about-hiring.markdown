@@ -15,9 +15,9 @@ The actual reason is that despite is so central most people approach hiring in
 a way that I barely understand.
 
 There are so many things I do not understand about how we interview people,
-how we write the ads we post on on job boards, how we treat the candidates
+how we write the ads we post on job boards, how we treat the candidates
 that I have hard times to find a constructive way to talk about this. When I
-get this feeling I become more analytical. Analytical thoughts make me calm
+get this feeling, I become more analytical. Analytical thoughts make me calm
 again. So let's break the hiring process in parts and then we take it from
 there:
 
@@ -218,7 +218,7 @@ fine". And I get quite some good feedback about that. And I know why. People
 hate when you lie to them in their face without shame.
 Please note that I do use canned answers in some cases. And this costed me a
 lot of thinking to accept I did need canned answers from time to time. So I
-split my anwers in two categories:
+split my answers in two categories:
 
 - If both parts invested time in interviews and meeting (no code challenges
   here!) then I do write personal emails.
